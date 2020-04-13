@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Consultor de Cerveja</string>
+    <string-array name="Cervejas">
+        <item>lager</item>
+        <item>pilsen</item>
+        <item>ipa</item>
+        <item>bock</item>
+        <item>amber</item>
+        <item>weiss</item>
+    </string-array>
+</resources>
